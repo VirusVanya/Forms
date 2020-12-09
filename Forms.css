@@ -1,0 +1,32 @@
+.Search {
+	height: 30px;
+	width: 500px;
+	border-radius: 10px;
+	border: 2px solid #c90404;
+    color: #000000;
+    background: linear-gradient(45deg, #f7db05, #37c906, #ff0000);
+}
+.Found {
+	height: 40px;
+	width: 70px;
+	border-radius: 10px;
+	border: 5px ridge #c90404;
+	color: #000000;
+	background: linear-gradient(45deg, #f21307, #fa9005, #faf205, #3fd611, #1125d6, #8a11d6);
+}
+.Found:hover {
+    height: 44px;
+	width: 74px;
+	border-radius: 11px ridge #c90404;
+    background: #3ff50c;
+    color: #ff0000;
+}
+.Text {
+	font-size: 50px;
+	font-style: italic;
+	color: #0c0cf5;
+}
+.Search:hover {
+	color: #e0d722;
+	background: #671682;
+}
